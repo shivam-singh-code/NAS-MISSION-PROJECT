@@ -1,0 +1,2 @@
+// in window to run both script concurretly use below command
+// npm config set script-shell bash
